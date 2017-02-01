@@ -38,7 +38,10 @@ Plugin 'scrooloose/syntastic'
 "Plugin 'klen/python-mode'
 " This plugin doesn't work in my computer :-(
 "Plugin 'Valloric/YouCompleteMe'
-Plugin 'klen/rope-vim'
+
+" This plugin doesn't work in my computer :-(
+"Plugin 'klen/rope-vim'
+
 "Plugin 'davidhalter/jedi-vim'
 Plugin 'ervandew/supertab'
 ""code folding
